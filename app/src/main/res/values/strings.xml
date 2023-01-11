@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Fragment</string>
+    <string name="btnfragmentone">Fragment One</string>
+    <string name="Btnfragmenttwo">FRAGMENT TWO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragmentone">Fragment One</string>
+    <string name="fragmenttwo">Fragment Two</string>
+    <string name="fragmentclickpractical">FRAGMENT CLICK PRACTICAL</string>
+    <string name="thisisfirstfragment">This is First Fragment</string>
+    <string name="fragmenttwoclick">Fragment Two</string>
+    <string name="nextfragment">Next Fragment</string>
+    <string name="thisissecondfragment">This is second Fragment</string>
+    <string name="previousfragment">Previous Fragment</string>
+    <string name="thisisthirdfragment">This is Third Fragment</string>
+</resources>
